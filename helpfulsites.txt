@@ -1,0 +1,15 @@
+Helpful sites
+
+planetB
+- site to copy paste code highlighting onto word
+http://www.planetb.ca/syntax-highlight-word
+
+pygeocoder 1.2.5
+- python package used to mine Google API for postal codes from positional codes
+https://pypi.python.org/pypi/pygeocoder
+
+StackOverflow User: David Zwicker
+- StackOverflow thread that helped me create the User Geotagged Graphs
+http://stackoverflow.com/questions/15160123/adding-a-background-image-to-a-plot-with-known-corner-coordinates
+
+
