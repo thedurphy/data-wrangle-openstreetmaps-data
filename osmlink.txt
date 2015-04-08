@@ -1,0 +1,2 @@
+http://overpass-api.de/api/map?bbox=-93.3292,44.9150,-93.1713,45.0644
+For this project I have chosen my home area Minneapolis, MN.  The reason is to be better able to validate the data by cross-referencing the data with personal knowledge of the area.  The area is mainly Minneapolis, MN with some of the suburbs including New Brighton, Hopkins, and Minneapolis’ Twin City, St. Paul.  Here is a link to the Overpass API for downloading the OSM for the region.
